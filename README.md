@@ -1,3 +1,3 @@
 # portfolio-2
-This my main Portflio
-This bootstrap
+This my main Portoflio
+This bootstrap portfolio
